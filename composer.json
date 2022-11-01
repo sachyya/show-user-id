@@ -1,0 +1,17 @@
+{
+    "name": "sachyya/show-user-id",
+    "description": "Show unique user ID",
+    "type": "project",
+    "license": "GPL2",
+    "authors": [
+      {
+        "name": "sachyya",
+        "email": "sachyya1@gmail.com"
+      }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+      "psr-4": {"Sachyya\\ShowUserID\\": "includes/"}
+    }
+  }
+  
